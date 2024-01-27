@@ -1,2 +1,2 @@
-###Data Science Class by Pintar
+DATA SCIENCE CLASS BY PINTAR
 
